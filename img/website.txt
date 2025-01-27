@@ -1,0 +1,5 @@
+color 1 - #8687fc
+color 2 - black
+
+logo text font - gugi
+
